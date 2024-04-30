@@ -15,4 +15,4 @@ AppStoreDemo - it's a pet project with AppStore application implemented in Swift
 
 |       App navigation        |
 |-----------------------------|
-| ![](review_appstore.mov)    |
+| ![](review_appstore_.gif)   |
