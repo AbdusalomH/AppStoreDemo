@@ -1,17 +1,12 @@
 AppStoreDemo - it's a pet project with AppStore application implemented in Swiftui
 
 
-1. 100% Programatically,
-2. SwiftUI,
-3. URLSession,
-4. Async/Await,
-5. List/Grid,
-6. MVVM
+1. SwiftUI,
+2. URLSession,
+3. Async/Await,
+4. List/Grid,
+5. MVVM
    
-
-
-
-
 
 |       App navigation        |
 |-----------------------------|
